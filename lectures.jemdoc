@@ -1,0 +1,168 @@
+# jemdoc: menu{MENU}{lectures.html}
+=  Lectures and Papers
+
+*The class schedule is tentative and subject to change.*
+
+== Lec \#1: Introduction and Course Overview 
+*Mon, Sep 14, 2020*
+- Lecture slides [./materials/lec1-slides-2020.pdf \[PDF\]] 
+- Lecture video
+  [https://mit.zoom.us/rec/play/vltSXkARPW-I0zoIDCxLo7EJscKZScHrINm30JI6mym6lfw3PQhzflz96GJGITc63afMFtJ7d_kyOWd8.LzH4RKjIeUZgRMNy?continueMode=true
+\[Zoom\]]
+- S. Keshav, [./papers/howtoread.pdf How to Read a Paper], SIGCOMM CCR 2007.
+
+== Lec \#2: Sensing & Localization
+*Mon, Sep 21, 2020*
+- Lecture slides [./materials/lec2-slides-2020.pdf \[PDF\]] 
+- Lecture video
+  [https://mit.zoom.us/rec/share/cDSemtA4mang-rURz4dR8GaYWOx305sBCKIagCE4n9zxXTJLhsJo99zRUBTm_Y5q.3jK7QGKd8gNKfUpf \[Zoom\]]
+- Required: [https://onlinelibrary.wiley.com/doi/pdf/10.1002/0470092335.ch6
+Intro to Localization],
+[http://witrack.csail.mit.edu/witrack-paper.pdf Wireless Sensing]
+- Optional: [http://nms.lcs.mit.edu/papers/cricket.pdf Cricket], [https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/infocom2000.pdf
+  RADAR], [https://en.wikipedia.org/wiki/Global_Positioning_System
+  Wikipedia:GPS],
+[http://witrack.csail.mit.edu/vitalradio/content/vitalradio-paper.pdf
+Contactless Vital Sign Sensing]
+
+== Lec \#3: Connectivity - BLE & Communications             
+*Mon, Sep 28, 2020*
+- Lecture slides [./materials/lec3-slides-2020.pdf \[PDF\]] 
+- Lecture video
+  [https://mit.zoom.us/rec/share/ei1crrmctHRx5FxBdnfD6SRYM9_AgQXoNMDgusU1yHVl5DatvYTvBSb1BtthXbjH.F24FxqYDI2oc0kMz?startTime=1601319634000
+\[Zoom\]]
+- Required: [https://lab11.eecs.berkeley.edu/content/pubs/zachariah20summon.pdf
+  Browsing the Web of Connected Things], [http://www.mit.edu/~fadel/papers/TARF-paper.pdf Underwater-to-Air
+  Communications]
+- Optional: [https://web.stanford.edu/~dntse/Chapters_PDF/Fundamentals_Wireless_Communication_chapter2.pdf
+  The Wireless Channel]
+
+== Lec \#4: Power - Energy Harvesting & Backscatter
+*Mon, Oct 5, 2020*
+- Lecture slides [./materials/lec4-slides-2020.pdf \[PDF\]] 
+- Lecture video
+  [https://mit.zoom.us/rec/share/fyb_9I5ook_-NmMT7B_m6I0bjY0myKFYOk1Vtnl9I-TEe8oR7_GTZDnw5m78K4Rv.k3qDIN4bOmvarSN_?startTime=1601924768000
+\[Zoom\]]
+- Required: [https://ieeexplore.ieee.org/document/4539485 WISP],
+[http://www.mit.edu/~fadel/papers/IVN-paper.pdf RFind (Section 2.1
+only)],
+  [http://www.mit.edu/~fadel/papers/RFind-paper.pdf RFind (Section 3.1
+only)]
+- Optional: [https://ieeexplore.ieee.org/document/1297315, RFID-based
+  Sensing]
+
+#== Lec \#5: Piezoelectricty and Underwater Communication
+#*Mon, Oct 7, 2020*
+#- Lecture slides [./materials/lec-5-part1-RFind-Saad.pdf \[PART
+#  1\]] [./materials/Lec5-part2-slides-PAB-Osvy.pdf \[PART 2\]]
+#[./materials/Lec5-part3-slides-TARF.pdf \[PART 3\]]
+#- [http://www.mit.edu/~fadel/papers/PAB-paper.pdf Underwater
+#  Backscatter]
+#- [http://www.mit.edu/~fadel/papers/TARF-paper.pdf TARF]
+
+== Mon, Oct 12, 2020: No Class (Indigenous Peoples' Day)
+#- Meet with instructor during the week to discuss class projects
+
+== Lec \#5: Acoustic Sensing & Imaging
+*Tues, Oct 13, 2020*
+- Lecture video
+  [https://mit.zoom.us/rec/share/17Vd92MKvq2OTsa-itsSWHORI5IEY7_OaNSkLuFQ99CrLPMMGqL3OtUn3SRBxfXU.TJ7DgW2GNeqhzr8D 
+\[Seminar Series by Prof. Lili Qiu (UT Austin)\]]
+[https://mit.zoom.us/rec/share/gXnDakfoYr7SWS7s9uYY90YnUYAG7JXVb7jOqSCETJwrA1Gp6TAQnRp8yebH6z_L.7y1rvTrVnFGT16HS
+\[Lecture Discussion\]]
+- Required (2 papers): [papers/acoustic-tracking.pdf High-Precision Acoustic Tracking],
+  [papers/acoustic-imaging.pdf Acoustic Imaging]
+- Optional (2 papers): [papers/follow-me-drone.pdf Follow Me Drone],
+  [papers/acoustic-imaging.pdf Device-Free Acoustic Tracking]
+
+
+== Lec \#6: Smart Surfaces for Indoor Wireless
+*Mon, Oct 19, 2020*
+- Lecture video
+[https://mit.zoom.us/rec/share/38iCXTaIztAWlDeHjG_pcTjLyWv1fOXFMf4YwjMzzqbKxv1Y9ET3LHZpzx4syQMi.XbIlpD7OULRXyBTQ?startTime=1603132238000
+\[Seminar Series by Prof. Kyle Jamieson (Princeton)\]]
+[https://mit.zoom.us/rec/share/_evKt_LnqhygZ7pAYAI8xpL80SpMxhP4Y159W9IGse7rUnsj5q3DaF3yh6HTTKGv.c3OFdp5qKwG0lggg?startTime=1603138177000
+\[Lecture Discussion\]]
+- Required (2 papers): [papers/Programmable-environments.pdf
+  Programmable Radio Environments],
+  [papers/Large-arrays.pdf Large Inexpensive Arrays]
+- Optional (2 papers):
+  [https://www.usenix.org/system/files/nsdi20-paper-arun.pdf RFocus],
+[https://arxiv.org/pdf/2007.11503.pdf Metasurfaces]
+
+
+== Lec \#7: IoT Security 
+*Mon, Oct 26, 2020*
+- Lecture video [https://www.youtube.com/watch?v=-dINf9bRWKc \[Seminar
+  Series by Prof. Kevin Fu (UMich)]
+- Required (2 papers): [papers/physics-sensors.pdf Trusting the
+  Physics of Sensors], [https://arxiv.org/pdf/2006.11946.pdf Light
+  Commands]
+- Optional (2 papers):
+  [https://spqrlab1.github.io/papers/trippel-IEEE-oaklawn-walnut-2017.pdf
+Hacking Inertial Sensors],
+[https://synrg.csl.illinois.edu/papers/backdoor_mobisys17.pdf
+Inaudible Commands]
+
+== Lec \#8: 5G, Millimeter-Waves, & Self-Driving Cars 
+*Mon, Nov 2, 2020*
+- Lecture video [https://www.youtube.com/watch?v=EV5GodlBfVA \[Seminar
+  Series by Prof. Haitham Hassanieh (UIUC)]
+- Required (2 papers):
+  [https://openaccess.thecvf.com/content_CVPR_2020/papers/Guan_Through_Fog_High-Resolution_Imaging_Using_Millimeter_Wave_Radar_CVPR_2020_paper.pdf
+Through-Fog Imaging],
+[http://haitham.ece.illinois.edu/Papers/nsdi19fall-final392.pdf
+Millimeter-Wave Networks]
+- Optional (2 papers):
+  [http://xyzhang.ucsd.edu/papers/RZhao_MobiCom20_M-Cube.pdf
+Millimeter-Wave Massive MIMO Software Radio],
+[http://www.ivanpoupyrev.com/wp-content/uploads/2017/01/siggraph_final.pdf
+Google Soli Project]
+
+== Lec \#9: Mobile Health Biomarkers 
+*Mon, Nov 9, 2020*
+- Lecture video
+[https://mit.zoom.us/rec/share/GqqLLN9avKJdsApm8nQPzReVmiEt2GI-UFl0V5oaLicjoVuB9NzkI3B0SFhJ9eEt.4I2wNRPRp4Wu5t6g
+\[Seminar Series by Prof. Tanzeem Choudhury (Cornell)\]]
+- Required (2 papers):
+  [https://www.usenix.org/system/files/nsdi20-paper-carver.pdf Visible
+Light Communication], [http://www.mit.edu/~fadel/papers/PAB-paper.pdf
+Piezo-Acoustic Backscatter]
+- Optional (4 papers):
+  [https://dl.acm.org/doi/10.1145/2750858.2805843 Mindless Computing],
+[https://dl.acm.org/doi/10.1145/2971648.2971752 EmotionCheck],
+[https://dl.acm.org/doi/10.1145/3328911 BoostMeUp],
+[https://dl.acm.org/doi/abs/10.1145/3173574.3174205 Regulating
+Feelings]
+
+== Lec \#10: Visibile Light Communications and Sensing
+*Mon, Nov 16, 2020*
+- Lecture video
+  [https://mit.zoom.us/rec/share/zk7YPfFAH7Pwo0rAo6R_ebEa19PelPNYe2ggYel52GB2WSuidqBqGinJ2FzWHvU.ECvfYEj6mjUFnqsb
+\[Seminar Series by Prof. Xia Zhou (Dartmouth)\]]
+- Optional (2 papers):
+  [http://www.mit.edu/~fadel/papers/U2B-paper.pdf Metamaterials],
+  [http://www.mit.edu/~fadel/papers/UBL-paper.pdf Localization] 
+#- [https://people.csail.mit.edu/mingmin/papers/rfpose-cvpr-zhao.pdf
+#  RFPose]
+#- [RFPose-3D
+#  https://people.csail.mit.edu/mingmin/papers/rfpose3d-sigcomm-zhao.pdf]
+
+== Mon, Nov 23, 2020: No Class (Thanksgiving Break) 
+
+== Lec \#11: Low-Power Wide-Area Networks 
+*Mon, Nov 30, 2020*
+- Required (2 papers):
+[https://swarunkumar.com/papers/choir-sigcomm2017.pdf Choir],
+[https://swarunkumar.com/papers/quail-ipsn2020.pdf Quail]
+- Optional (2 papers):
+[https://swarunkumar.com/papers/joltik-mobicom2020.pdf Joltik],
+[https://swarunkumar.com/papers/opr-mobisys2020.pdf Opr]
+
+== Lec \#12: Project Presentations & Demos
+*Mon, Dec 7, 2020*
+
+
+#== Lec \#23: Project presentations
+#*Tue, Dec 13, 2016*
+#
