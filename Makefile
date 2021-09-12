@@ -17,5 +17,5 @@ clean :
 .PHONY : update
 update : 
 	rm -f *~
-	rsync -avze ssh --delete --exclude '*.jemdoc' --exclude 'MENU' --exclude 'Makefile' ./ fadel@athena.dialup.mit.edu:~/www/courses/MAS.S66/
+	rsync -avze ssh --delete --exclude '*.jemdoc' --exclude 'MENU' --exclude 'Makefile' ./fadel@athena.dialup.mit.edu:~/www/courses/MAS.S62/
 
