@@ -9,15 +9,15 @@
 - Lecture slides [./materials/lec1-slides-2021.pdf \[PDF\]] 
 - S. Keshav, [https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf How to Read a Paper], SIGCOMM CCR 2007.
 
-== Lec \#2: Underwater to Air Communications
+== Lec \#2: Underwater to Air Communications (Mon, Sep 20, 2021)
 *Goal:* Learn fundamentals of communications, sensing, RF, acoustics\n
-*Mon, Sep 20, 2021*
-- Lecture slides [./materials/lec2-slides-2021.pdf \[PDF\]] 
-- Required: [http://www.mit.edu/~fadel/papers/TARF-paper.pdf
-Networking across boundaries: enabling wireless communication through the water-air interface, ACM SIGCOMM 2018],
-[https://www.usenix.org/system/files/nsdi20-paper-carver.pdf AmphiLight: Direct Air-Water Communication with Laser Light, Usenix NSDI 2020
-]
-- Optional: [https://web.stanford.edu/~dntse/Chapters_PDF/Fundamentals_Wireless_Communication_chapter2.pdf Chapter 2 of Fundamentals of Wireless Communication by Tse & Viswanath] 
+#- Lecture slides [./materials/lec2-slides-2021.pdf \[PDF\]] 
+- *Required:*
+-- [http://www.mit.edu/~fadel/papers/TARF-paper.pdf
+Networking across boundaries: enabling wireless communication through the water-air interface], ACM SIGCOMM 2018
+-- [https://www.usenix.org/system/files/nsdi20-paper-carver.pdf AmphiLight: Direct Air-Water Communication with Laser Light], Usenix NSDI 2020
+- *Optional:*
+-- [https://web.stanford.edu/~dntse/Chapters_PDF/Fundamentals_Wireless_Communication_chapter2.pdf Chapter 2 of Fundamentals of Wireless Communication by Tse & Viswanath] 
 
 == Lec \#3: Batteryless Underwater Communications   
 *Goal:* Learn fundamentals of energy harvesting, backscatter, end-to-end system design\n        
