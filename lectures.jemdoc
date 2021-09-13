@@ -32,7 +32,7 @@ Networking across boundaries: enabling wireless communication through the water-
 *Goal:* Learn fundamentals of localization and physics of wireless/acoustic channel\n       
 #- Lecture slides [./materials/lec4-slides-2021.pdf \[PDF\]] 
 - *Required:* 
--- [https://ieeexplore.ieee.org/abstract/document/5714973?casa_token=loVFjya1__0AAAAA:gmQ0tYzc24KZbwJr0UiSeLa186KcXrc4pXnVh-5bAACaMbwoRxFuGfYjtwR3j0PjIM3tEIzY_A A Survey of Architectures and Localization Techniques for Underwater Acoustic Sensor Networks, IEEE Communications Surveys & Tutorials, 2011]
+-- [https://ieeexplore.ieee.org/abstract/document/5714973?casa_token=loVFjya1__0AAAAA:gmQ0tYzc24KZbwJr0UiSeLa186KcXrc4pXnVh-5bAACaMbwoRxFuGfYjtwR3j0PjIM3tEIzY_A A Survey of Architectures and Localization Techniques for Underwater Acoustic Sensor Networks], IEEE Communications Surveys & Tutorials, 2011
 - *Optional:* 
 -- [http://www.mit.edu/~fadel/papers/UBL-paper.pdf  Underwater Backscatter Localization: Toward a Battery-Free Underwater GPS], ACM HotNets 2018
 
@@ -66,7 +66,6 @@ Lecturer: Dr. Julie Jakoboski, Oceanographer, MetOcean
 Lecturer: Prof. Bruce Howe, Research Professor, University of Hawaii
 - *Required:* 
 -- [https://www.frontiersin.org/articles/10.3389/fmars.2019.00424/full SMART Cables for Observing the Global Ocean: Science and Implementation], Frontiers in Marine Science 2019
--- [https://arxiv.org/pdf/2006.11946.pdf Light Commands]
 
 
 == Lec \#8: Ocean drones: underwater, fish-like, and sail drones (Mon, Nov 8, 2021)
@@ -79,7 +78,7 @@ Lecturer: Prof. Matthew Johnson-Roberson, Associate Professor, University of Mic
 -- [https://ieeexplore.ieee.org/abstract/document/9147558 An Active Perception Approach for Mid-Water Localization of Autonomous Underwater Vehicles], ACC, 2020
 - *Optional:*
 -- [https://www.science.org/doi/10.1126/scirobotics.abe1901 A hybrid underwater robot for multidisciplinary investigation of the ocean twilight zone], Science Robotics, 2021
--- [https://drive.google.com/file/d/16B-J8LO3BpVL6SaTmD2_MQounWL83Wpi/view The Argo Program: Present and Future, Oceanography, 2017.]
+-- [https://drive.google.com/file/d/16B-J8LO3BpVL6SaTmD2_MQounWL83Wpi/view The Argo Program: Present and Future], Oceanography, 2017.
 
 == Lec \#9: Low-Cost Ocean Instrumentation (Mon, Nov 15, 2021)
 *Goal:* Learn about emerging low-cost ocean instruments to quantify organic carbon fluxes\n
@@ -99,7 +98,7 @@ Lecturer: Prof. Melissa Omand, Associate Professor, University of Rhode Island
 *Goal:* Learn emerging techniques in passive acoustics and bioacoustics + project check-in\n
 Lecturer: Dr. Julien Bonnel, Associate Scientist, WHOI
 - *Required:* 
--- [https://asa.scitation.org/doi/10.1121/10.0000937 Nonlinear time-warping made simple: A step-by-step tutorial on underwater acoustic modal separation with a single hydrophone, JASA, 2020]
+-- [https://asa.scitation.org/doi/10.1121/10.0000937 Nonlinear time-warping made simple: A step-by-step tutorial on underwater acoustic modal separation with a single hydrophone], JASA, 2020
 - *Optional:*
 -- [https://www.nature.com/articles/s41598-020-57549-y Deep neural networks for automated detection of marine mammal species], Nature Scientific Reports, 2020
 -- [https://asa.scitation.org/doi/10.1121/10.0003502 Seabed type and source parameters predictions using ship spectrograms in convolutional neural networks featured], JASA, 2020
