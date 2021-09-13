@@ -3,164 +3,120 @@
 
 *The class schedule is tentative and subject to change.*
 
-== Lec \#1: Introduction and Course Overview 
-*Mon, Sep 14, 2020*
-- Lecture slides [./materials/lec1-slides-2020.pdf \[PDF\]] 
-- Lecture video
-  [https://mit.zoom.us/rec/play/vltSXkARPW-I0zoIDCxLo7EJscKZScHrINm30JI6mym6lfw3PQhzflz96GJGITc63afMFtJ7d_kyOWd8.LzH4RKjIeUZgRMNy?continueMode=true
-\[Zoom\]]
-- S. Keshav, [./papers/howtoread.pdf How to Read a Paper], SIGCOMM CCR 2007.
+== Lec \#1: Introduction and Course Overview
+*Goal:* Overview of class, learning how to read and review a paper\n
+*Mon, Sep 13, 2021*
+- Lecture slides [./materials/lec1-slides-2021.pdf \[PDF\]] 
+- S. Keshav, [https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf How to Read a Paper], SIGCOMM CCR 2007.
 
-== Lec \#2: Sensing & Localization
-*Mon, Sep 21, 2020*
-- Lecture slides [./materials/lec2-slides-2020.pdf \[PDF\]] 
-- Lecture video
-  [https://mit.zoom.us/rec/share/cDSemtA4mang-rURz4dR8GaYWOx305sBCKIagCE4n9zxXTJLhsJo99zRUBTm_Y5q.3jK7QGKd8gNKfUpf \[Zoom\]]
-- Required: [https://onlinelibrary.wiley.com/doi/pdf/10.1002/0470092335.ch6
-Intro to Localization],
-[http://witrack.csail.mit.edu/witrack-paper.pdf Wireless Sensing]
-- Optional: [http://nms.lcs.mit.edu/papers/cricket.pdf Cricket], [https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/infocom2000.pdf
-  RADAR], [https://en.wikipedia.org/wiki/Global_Positioning_System
-  Wikipedia:GPS],
-[http://witrack.csail.mit.edu/vitalradio/content/vitalradio-paper.pdf
-Contactless Vital Sign Sensing]
+== Lec \#2: Underwater to Air Communications
+*Goal:* Learn fundamentals of communications, sensing, RF, acoustics\n
+*Mon, Sep 20, 2021*
+- Lecture slides [./materials/lec2-slides-2021.pdf \[PDF\]] 
+- Required: [http://www.mit.edu/~fadel/papers/TARF-paper.pdf
+Networking across boundaries: enabling wireless communication through the water-air interface, ACM SIGCOMM 2018],
+[https://www.usenix.org/system/files/nsdi20-paper-carver.pdf AmphiLight: Direct Air-Water Communication with Laser Light, Usenix NSDI 2020
+]
+- Optional: [https://web.stanford.edu/~dntse/Chapters_PDF/Fundamentals_Wireless_Communication_chapter2.pdf Chapter 2 of Fundamentals of Wireless Communication by Tse & Viswanath] 
 
-== Lec \#3: Connectivity - BLE & Communications             
-*Mon, Sep 28, 2020*
-- Lecture slides [./materials/lec3-slides-2020.pdf \[PDF\]] 
-- Lecture video
-  [https://mit.zoom.us/rec/share/ei1crrmctHRx5FxBdnfD6SRYM9_AgQXoNMDgusU1yHVl5DatvYTvBSb1BtthXbjH.F24FxqYDI2oc0kMz?startTime=1601319634000
-\[Zoom\]]
-- Required: [https://lab11.eecs.berkeley.edu/content/pubs/zachariah20summon.pdf
-  Browsing the Web of Connected Things], [http://www.mit.edu/~fadel/papers/TARF-paper.pdf Underwater-to-Air
-  Communications]
-- Optional: [https://web.stanford.edu/~dntse/Chapters_PDF/Fundamentals_Wireless_Communication_chapter2.pdf
-  The Wireless Channel]
+== Lec \#3: Batteryless Underwater Communications   
+*Goal:* Learn fundamentals of energy harvesting, backscatter, end-to-end system design\n        
+*Mon, Sep 27, 2021*
+- Lecture slides [./materials/lec3-slides-2021.pdf \[PDF\]] 
+- Required: [http://www.mit.edu/~fadel/papers/PAB-paper.pdf Underwater backscatter networking, ACM SIGCOMM 2019],
+[https://ieeexplore.ieee.org/document/9217956 Underwater Ultrasonic Wireless Power Transfer: A Battery-less Platform for the Internet of Underwater Things, IEEE Transactions on Mobile Computing 2020]
+- Optional: [http://www.mit.edu/~fadel/papers/U2B-paper.pdf Ultra-Wideband Underwater Backscatter via Piezoelectric Metamaterials, ACM SIGCOMM 2020],
+[https://ieeexplore.ieee.org/document/4539485 Design of an RFID-Based Battery-Free Programmable Sensing Platform, IEEE Transactions on Instrumentation and Measurement 2008]
 
-== Lec \#4: Power - Energy Harvesting & Backscatter
-*Mon, Oct 5, 2020*
-- Lecture slides [./materials/lec4-slides-2020.pdf \[PDF\]] 
-- Lecture video
-  [https://mit.zoom.us/rec/share/fyb_9I5ook_-NmMT7B_m6I0bjY0myKFYOk1Vtnl9I-TEe8oR7_GTZDnw5m78K4Rv.k3qDIN4bOmvarSN_?startTime=1601924768000
-\[Zoom\]]
-- Required: [https://ieeexplore.ieee.org/document/4539485 WISP],
-[http://www.mit.edu/~fadel/papers/IVN-paper.pdf RFind (Section 2.1
-only)],
-  [http://www.mit.edu/~fadel/papers/RFind-paper.pdf RFind (Section 3.1
-only)]
-- Optional: [https://ieeexplore.ieee.org/document/1297315, RFID-based
-  Sensing]
+== Lec \#4: Underwater Localization
+*Goal:* Learn fundamentals of localization and physics of wireless/acoustic channel\n       
+*Mon, Oct 4, 2021*
+- Lecture slides [./materials/lec4-slides-2021.pdf \[PDF\]] 
+- Required: [https://ieeexplore.ieee.org/abstract/document/5714973?casa_token=loVFjya1__0AAAAA:gmQ0tYzc24KZbwJr0UiSeLa186KcXrc4pXnVh-5bAACaMbwoRxFuGfYjtwR3j0PjIM3tEIzY_A A Survey of Architectures and Localization Techniques for Underwater Acoustic Sensor Networks, IEEE Communications Surveys & Tutorials, 2011]
+- Optional: [http://www.mit.edu/~fadel/papers/UBL-paper.pdf, Underwater Backscatter Localization: Toward a Battery-Free Underwater GPS, ACM HotNets 2018]
 
-#== Lec \#5: Piezoelectricty and Underwater Communication
-#*Mon, Oct 7, 2020*
-#- Lecture slides [./materials/lec-5-part1-RFind-Saad.pdf \[PART
-#  1\]] [./materials/Lec5-part2-slides-PAB-Osvy.pdf \[PART 2\]]
-#[./materials/Lec5-part3-slides-TARF.pdf \[PART 3\]]
-#- [http://www.mit.edu/~fadel/papers/PAB-paper.pdf Underwater
-#  Backscatter]
-#- [http://www.mit.edu/~fadel/papers/TARF-paper.pdf TARF]
+== Mon, Oct 11, 2021: No Class (Indigenous Peoples' Day)
+- Meet with instructor during the week to discuss class projects
+- Due: Project Proposal + Team (Oct 15)
 
-== Mon, Oct 12, 2020: No Class (Indigenous Peoples' Day)
-#- Meet with instructor during the week to discuss class projects
-
-== Lec \#5: Acoustic Sensing & Imaging
-*Tues, Oct 13, 2020*
-- Lecture video
-  [https://mit.zoom.us/rec/share/17Vd92MKvq2OTsa-itsSWHORI5IEY7_OaNSkLuFQ99CrLPMMGqL3OtUn3SRBxfXU.TJ7DgW2GNeqhzr8D 
-\[Seminar Series by Prof. Lili Qiu (UT Austin)\]]
-[https://mit.zoom.us/rec/share/gXnDakfoYr7SWS7s9uYY90YnUYAG7JXVb7jOqSCETJwrA1Gp6TAQnRp8yebH6z_L.7y1rvTrVnFGT16HS
-\[Lecture Discussion\]]
-- Required (2 papers): [papers/acoustic-tracking.pdf High-Precision Acoustic Tracking],
-  [papers/acoustic-imaging.pdf Acoustic Imaging]
-- Optional (2 papers): [papers/follow-me-drone.pdf Follow Me Drone],
-  [papers/acoustic-imaging.pdf Device-Free Acoustic Tracking]
+== Lec \#5:  Underwater Imaging
+*Goal:* Learn fundamentals of underwater imaging and emerging imaging/robotics techniques\n
+*Mon, Oct 18, 2021*\n
+Lecturer: Dr. Jules Jaffe, Research Oceanographer, UCSD Scripps Institution of Oceanography
+- Required: [https://ieeexplore.ieee.org/document/6930829 Underwater Optical Imaging: The Past, the Present, and the Prospects, IEEE Journal of Oceanic Engineering 2014
+],[https://arxiv.org/abs/2104.06686 Underwater dual-magnification imaging for automated lake plankton monitoring, ArXiv Jules Jaffe]
+- Optional: [https://ieeexplore.ieee.org/abstract/document/8794272 UWStereoNet: Unsupervised Learning for Depth Estimation and Color Correction of Underwater Stereo Imagery, ICRA 2020],
+  [https://ieeexplore.ieee.org/document/9423166 Visual tracking of deepwater animals using machine learning-controlled robotic underwater vehicles, WACV 2021],
+  [https://tos.org/oceanography/article/an-optical-imaging-system-for-capturing-images-in-low-light-aquatic-habitats-using-only-ambient-light An Optical Imaging System for Capturing Images in Low-Light Aquatic Habitats Using Only Ambient Light, DIY Oceanography, 2020]
 
 
-== Lec \#6: Smart Surfaces for Indoor Wireless
-*Mon, Oct 19, 2020*
-- Lecture video
-[https://mit.zoom.us/rec/share/38iCXTaIztAWlDeHjG_pcTjLyWv1fOXFMf4YwjMzzqbKxv1Y9ET3LHZpzx4syQMi.XbIlpD7OULRXyBTQ?startTime=1603132238000
-\[Seminar Series by Prof. Kyle Jamieson (Princeton)\]]
-[https://mit.zoom.us/rec/share/_evKt_LnqhygZ7pAYAI8xpL80SpMxhP4Y159W9IGse7rUnsj5q3DaF3yh6HTTKGv.c3OFdp5qKwG0lggg?startTime=1603138177000
-\[Lecture Discussion\]]
-- Required (2 papers): [papers/Programmable-environments.pdf
-  Programmable Radio Environments],
-  [papers/Large-arrays.pdf Large Inexpensive Arrays]
-- Optional (2 papers):
-  [https://www.usenix.org/system/files/nsdi20-paper-arun.pdf RFocus],
-[https://arxiv.org/pdf/2007.11503.pdf Metasurfaces]
+== Lec \#6:  Opportunistic Mobile Sensing using Fishing Vessels/Gear
+*Goal:* Learn about the emerging area of opportunistic sensing in practical deployments\n
+*Mon, Oct 25, 2021*\n
+Lecturer: Dr. Julie Jakoboski, Oceanographer, MetOcean
+- Required: [https://www.frontiersin.org/articles/10.3389/fmars.2020.485512/full Fishing gear as a data collection platform: Opportunities to fill spatial and temporal gaps in operational sub-surface observation networks, Frontiers in Marine Science 2020]
 
 
-== Lec \#7: IoT Security 
-*Mon, Oct 26, 2020*
-- Lecture video [https://www.youtube.com/watch?v=-dINf9bRWKc \[Seminar
-  Series by Prof. Kevin Fu (UMich)]
-- Required (2 papers): [papers/physics-sensors.pdf Trusting the
-  Physics of Sensors], [https://arxiv.org/pdf/2006.11946.pdf Light
+== Due: Project Progress Report 1 (Fri, Oct 29, 2021)
+
+== Lec \#7: Subsea Ocean Observation
+*Goal: * Learn about recent advances in SMART cables + project check-in\n
+*Mon, Nov 1, 2021*\n
+Lecturer: Prof. Bruce Howe, Research Professor, University of Hawaii
+- Required: [https://www.frontiersin.org/articles/10.3389/fmars.2019.00424/full SMART Cables for Observing the Global Ocean: Science and Implementation, Frontiers in Marine Science 2019], [https://arxiv.org/pdf/2006.11946.pdf Light
   Commands]
-- Optional (2 papers):
-  [https://spqrlab1.github.io/papers/trippel-IEEE-oaklawn-walnut-2017.pdf
-Hacking Inertial Sensors],
-[https://synrg.csl.illinois.edu/papers/backdoor_mobisys17.pdf
-Inaudible Commands]
 
-== Lec \#8: 5G, Millimeter-Waves, & Self-Driving Cars 
-*Mon, Nov 2, 2020*
-- Lecture video [https://www.youtube.com/watch?v=EV5GodlBfVA \[Seminar
-  Series by Prof. Haitham Hassanieh (UIUC)]
+
+== Lec \#8: Ocean drones: underwater, fish-like, and sail drones
+*Goal:* Learn about fundamental and emerging technologies for marine robotics\n
+*Mon, Nov 8, 2021*\n
+Lecturer: Prof. Matthew Johnson-Roberson, Associate Professor, University of Michigan, Ann Arbor
+- Required:
+  [https://www.saildrone.com/news/what-is-saildrone-how-work Saildrone design and capabilities: What Is a Saildrone and How Does It Work?, 2021],
+[https://www.science.org/doi/10.1126/scirobotics.aar3449 Exploration of underwater life with an acoustically controlled soft robotic fish, Science Robotics, 2018],
+[https://droplab-files.engin.umich.edu/bibtexbrowser.php?key=Yang%3A2021vl&bib=total-pub.bib Energy-Optimal Path Planning with Active Flow Perception for Autonomous Underwater Vehicles, ICRA 2021],
+[https://ieeexplore.ieee.org/abstract/document/9147558 An Active Perception Approach for Mid-Water Localization of Autonomous Underwater Vehicles, ACC, 2020]
+- Optional:
+  [https://www.science.org/doi/10.1126/scirobotics.abe1901 A hybrid underwater robot for multidisciplinary investigation of the ocean twilight zone, Science Robotics, 2021],
+[https://drive.google.com/file/d/16B-J8LO3BpVL6SaTmD2_MQounWL83Wpi/view The Argo Program: Present and Future, Oceanography, 2017.]
+
+== Lec \#9: Low-Cost Ocean Instrumentation
+*Goal:* Learn about emerging low-cost ocean instruments to quantify organic carbon fluxes\n
+*Mon, Nov 15, 2021*\n
+Lecturer: Prof. Melissa Omand, Associate Professor, University of Rhode Island
+- Required:
+  [https://digitalcommons.uri.edu/cgi/viewcontent.cgi?article=2896&context=theses Control System For Low-cost Miniature Isopycnal Floats (Minions)' Targeting Distributed Observations Of The Oceanic Biological Carbon Pump, URI Thesis, 2020],
+  [https://www.pnas.org/content/pnas/118/32/e2022977118.full.pdf Cloud shadows drive vertical migrations of deep-dwelling marine life, PNAS 2021]
+- Optional:
+  [https://www.nature.com/articles/s42003-021-01760-8 Passive eDNA collection enhances aquatic biodiversity analysis, Nature Communications Biology, 2021],
+  [https://www.nature.com/articles/s41598-017-12501-5 Ecosystem biomonitoring with eDNA: metabarcoding across the tree of life in a tropical marine environment, Scientific Reports, 2020]
+
+
+== Due: Project Progress Report 2 (Fri, Nov 19, 2021)
+
+
+== Lec \#10: Passive Ocean Acoustics and Bioacoustics
+*Goal:* Learn emerging techniques in passive acoustics and bioacoustics + project check-in\n
+*Mon, Nov 22, 2021*\n
+Lecturer: Dr. Julien Bonnel, Associate Scientist, WHOI
+- Required: 
+  [https://asa.scitation.org/doi/10.1121/10.0000937 Nonlinear time-warping made simple: A step-by-step tutorial on underwater acoustic modal separation with a single hydrophone, JASA, 2020]
+- Optional:
+  [https://www.nature.com/articles/s41598-020-57549-y Deep neural networks for automated detection of marine mammal species, Nature Scientific Reports, 2020],
+  [https://asa.scitation.org/doi/10.1121/10.0003502 Seabed type and source parameters predictions using ship spectrograms in convolutional neural networks featured, JASA, 2020]
+
+
+== Lec \#11: Remote Sensing and Imaging  
+*Goal:* Learn about emerging and classical results in ocean remote sensing\n
+*Mon, Nov 29, 2021*\n
+Lecturer: Aiden Fitzpatrick, PhD Candidate, Stanford University
 - Required (2 papers):
-  [https://openaccess.thecvf.com/content_CVPR_2020/papers/Guan_Through_Fog_High-Resolution_Imaging_Using_Millimeter_Wave_Radar_CVPR_2020_paper.pdf
-Through-Fog Imaging],
-[http://haitham.ece.illinois.edu/Papers/nsdi19fall-final392.pdf
-Millimeter-Wave Networks]
-- Optional (2 papers):
-  [http://xyzhang.ucsd.edu/papers/RZhao_MobiCom20_M-Cube.pdf
-Millimeter-Wave Massive MIMO Software Radio],
-[http://www.ivanpoupyrev.com/wp-content/uploads/2017/01/siggraph_final.pdf
-Google Soli Project]
+[https://ieeexplore.ieee.org/abstract/document/9228880 An Airborne Sonar System for Underwater Remote Sensing and Imaging, IEEE Access 2020],
+[https://ieeexplore.ieee.org/abstract/document/1433022 Detection and processing of bistatically reflected GPS signals from low earth orbit for the purpose of ocean remote sensing, IEEE Transactions on Geoscience and Remote Sensing, 2005]
 
-== Lec \#9: Mobile Health Biomarkers 
-*Mon, Nov 9, 2020*
-- Lecture video
-[https://mit.zoom.us/rec/share/GqqLLN9avKJdsApm8nQPzReVmiEt2GI-UFl0V5oaLicjoVuB9NzkI3B0SFhJ9eEt.4I2wNRPRp4Wu5t6g
-\[Seminar Series by Prof. Tanzeem Choudhury (Cornell)\]]
-- Required (2 papers):
-  [https://www.usenix.org/system/files/nsdi20-paper-carver.pdf Visible
-Light Communication], [http://www.mit.edu/~fadel/papers/PAB-paper.pdf
-Piezo-Acoustic Backscatter]
-- Optional (4 papers):
-  [https://dl.acm.org/doi/10.1145/2750858.2805843 Mindless Computing],
-[https://dl.acm.org/doi/10.1145/2971648.2971752 EmotionCheck],
-[https://dl.acm.org/doi/10.1145/3328911 BoostMeUp],
-[https://dl.acm.org/doi/abs/10.1145/3173574.3174205 Regulating
-Feelings]
-
-== Lec \#10: Visibile Light Communications and Sensing
-*Mon, Nov 16, 2020*
-- Lecture video
-  [https://mit.zoom.us/rec/share/zk7YPfFAH7Pwo0rAo6R_ebEa19PelPNYe2ggYel52GB2WSuidqBqGinJ2FzWHvU.ECvfYEj6mjUFnqsb
-\[Seminar Series by Prof. Xia Zhou (Dartmouth)\]]
-- Optional (2 papers):
-  [http://www.mit.edu/~fadel/papers/U2B-paper.pdf Metamaterials],
-  [http://www.mit.edu/~fadel/papers/UBL-paper.pdf Localization] 
-#- [https://people.csail.mit.edu/mingmin/papers/rfpose-cvpr-zhao.pdf
-#  RFPose]
-#- [RFPose-3D
-#  https://people.csail.mit.edu/mingmin/papers/rfpose3d-sigcomm-zhao.pdf]
-
-== Mon, Nov 23, 2020: No Class (Thanksgiving Break) 
-
-== Lec \#11: Low-Power Wide-Area Networks 
-*Mon, Nov 30, 2020*
-- Required (2 papers):
-[https://swarunkumar.com/papers/choir-sigcomm2017.pdf Choir],
-[https://swarunkumar.com/papers/quail-ipsn2020.pdf Quail]
-- Optional (2 papers):
-[https://swarunkumar.com/papers/joltik-mobicom2020.pdf Joltik],
-[https://swarunkumar.com/papers/opr-mobisys2020.pdf Opr]
 
 == Lec \#12: Project Presentations & Demos
-*Mon, Dec 7, 2020*
+*Mon, Dec 6, 2021*
 
 
 #== Lec \#23: Project presentations
