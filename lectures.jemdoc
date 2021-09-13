@@ -42,7 +42,7 @@ Networking across boundaries: enabling wireless communication through the water-
 
 == Lec \#5:  Underwater Imaging (Mon, Oct 18, 2021)
 *Goal:* Learn fundamentals of underwater imaging and emerging imaging/robotics techniques\n
-Lecturer: Dr. Jules Jaffe, Research Oceanographer, UCSD Scripps Institution of Oceanography
+Lecturer: [https://jjaffe.scrippsprofiles.ucsd.edu/ Dr. Jules Jaffe], Research Oceanographer, UCSD Scripps Institution of Oceanography
 - *Required:*
 -- [https://ieeexplore.ieee.org/document/6930829 Underwater Optical Imaging: The Past, the Present, and the Prospects], IEEE Journal of Oceanic Engineering 2014
 -- [https://arxiv.org/abs/2104.06686 Underwater dual-magnification imaging for automated lake plankton monitoring], ArXiv Jules Jaffe
@@ -54,7 +54,7 @@ Lecturer: Dr. Jules Jaffe, Research Oceanographer, UCSD Scripps Institution of O
 
 == Lec \#6:  Opportunistic Mobile Sensing using Fishing Vessels/Gear (Mon, Oct 25, 2021)
 *Goal:* Learn about the emerging area of opportunistic sensing in practical deployments\n
-Lecturer: Dr. Julie Jakoboski, Oceanographer, MetOcean
+Lecturer: [https://www.moanaproject.org/julie-jakoboski Dr. Julie Jakoboski], Oceanographer, MetOcean
 - *Required:* 
 -- [https://www.frontiersin.org/articles/10.3389/fmars.2020.485512/full Fishing gear as a data collection platform: Opportunities to fill spatial and temporal gaps in operational sub-surface observation networks], Frontiers in Marine Science 2020
 
@@ -63,14 +63,14 @@ Lecturer: Dr. Julie Jakoboski, Oceanographer, MetOcean
 
 == Lec \#7: Subsea Ocean Observation (Mon, Nov 1, 2021)
 *Goal: * Learn about recent advances in SMART cables + project check-in\n
-Lecturer: Prof. Bruce Howe, Research Professor, University of Hawaii
+Lecturer: [https://www.soest.hawaii.edu/ore/people/faculty/bruce-m-howe/ Prof. Bruce Howe], Research Professor, University of Hawaii
 - *Required:* 
 -- [https://www.frontiersin.org/articles/10.3389/fmars.2019.00424/full SMART Cables for Observing the Global Ocean: Science and Implementation], Frontiers in Marine Science 2019
 
 
 == Lec \#8: Ocean drones: underwater, fish-like, and sail drones (Mon, Nov 8, 2021)
 *Goal:* Learn about fundamental and emerging technologies for marine robotics\n
-Lecturer: Prof. Matthew Johnson-Roberson, Associate Professor, University of Michigan, Ann Arbor
+Lecturer: [https://droplab.engin.umich.edu/matthew-johnson-roberson Prof. Matthew Johnson-Roberson], Associate Professor, University of Michigan, Ann Arbor
 - *Required:*
 -- [https://www.saildrone.com/news/what-is-saildrone-how-work Saildrone design and capabilities: What Is a Saildrone and How Does It Work?, 2021],
 -- [https://www.science.org/doi/10.1126/scirobotics.aar3449 Exploration of underwater life with an acoustically controlled soft robotic fish], Science Robotics, 2018
@@ -82,7 +82,7 @@ Lecturer: Prof. Matthew Johnson-Roberson, Associate Professor, University of Mic
 
 == Lec \#9: Low-Cost Ocean Instrumentation (Mon, Nov 15, 2021)
 *Goal:* Learn about emerging low-cost ocean instruments to quantify organic carbon fluxes\n
-Lecturer: Prof. Melissa Omand, Associate Professor, University of Rhode Island
+Lecturer: [https://web.uri.edu/gso/meet/melissa-m-omand/ Prof. Melissa Omand], Associate Professor, University of Rhode Island
 - *Required:*
 -- [https://digitalcommons.uri.edu/cgi/viewcontent.cgi?article=2896&context=theses Control System For Low-cost Miniature Isopycnal Floats (Minions)' Targeting Distributed Observations Of The Oceanic Biological Carbon Pump], URI Thesis, 2020
 -- [https://www.pnas.org/content/pnas/118/32/e2022977118.full.pdf Cloud shadows drive vertical migrations of deep-dwelling marine life], PNAS 2021
@@ -96,7 +96,7 @@ Lecturer: Prof. Melissa Omand, Associate Professor, University of Rhode Island
 
 == Lec \#10: Passive Ocean Acoustics and Bioacoustics (Mon, Nov 22, 2021)
 *Goal:* Learn emerging techniques in passive acoustics and bioacoustics + project check-in\n
-Lecturer: Dr. Julien Bonnel, Associate Scientist, WHOI
+Lecturer: [https://www2.whoi.edu/staff/jbonnel/ Dr. Julien Bonnel], Associate Scientist, WHOI
 - *Required:* 
 -- [https://asa.scitation.org/doi/10.1121/10.0000937 Nonlinear time-warping made simple: A step-by-step tutorial on underwater acoustic modal separation with a single hydrophone], JASA, 2020
 - *Optional:*
@@ -106,7 +106,7 @@ Lecturer: Dr. Julien Bonnel, Associate Scientist, WHOI
 
 == Lec \#11: Remote Sensing and Imaging (Mon, Nov 29, 2021)
 *Goal:* Learn about emerging and classical results in ocean remote sensing\n
-Lecturer: Aiden Fitzpatrick, PhD Candidate, Stanford University
+Lecturer: [https://profiles.stanford.edu/aidan-fitzpatrick Aiden Fitzpatrick], PhD Candidate, Stanford University
 - *Required:*
 -- [https://ieeexplore.ieee.org/abstract/document/9228880 An Airborne Sonar System for Underwater Remote Sensing and Imaging], IEEE Access 2020
 -- [https://ieeexplore.ieee.org/abstract/document/1433022 Detection and processing of bistatically reflected GPS signals from low earth orbit for the purpose of ocean remote sensing], IEEE Transactions on Geoscience and Remote Sensing, 2005
