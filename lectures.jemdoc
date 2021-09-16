@@ -16,7 +16,9 @@
 Networking across boundaries: enabling wireless communication through the water-air interface], ACM SIGCOMM 2018
 -- [https://www.usenix.org/system/files/nsdi20-paper-carver.pdf AmphiLight: Direct Air-Water Communication with Laser Light], Usenix NSDI 2020
 - *Optional:*
--- [https://web.stanford.edu/~dntse/Chapters_PDF/Fundamentals_Wireless_Communication_chapter2.pdf Chapter 2 of Fundamentals of Wireless Communication by Tse & Viswanath] 
+-- [https://web.stanford.edu/~dntse/Chapters_PDF/Fundamentals_Wireless_Communication_chapter2.pdf Chapter 2 of Fundamentals of Wireless Communication by Tse & Viswanath]
+-- [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4554200&tag=1 Multicarrier Communication Over Underwater Acoustic Channels With Nonuniform Doppler Shifts]
+-- [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1639901 The WHOI Micro-Modem: An Acoustic Communications and Navigation System for Multiple Platforms]
 
 == Lec \#3: Batteryless Underwater Communications (Mon, Sep 27, 2021)   
 *Goal:* Learn fundamentals of energy harvesting, backscatter, end-to-end system design\n        
