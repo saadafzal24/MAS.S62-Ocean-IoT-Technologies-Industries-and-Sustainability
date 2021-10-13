@@ -23,7 +23,8 @@ Networking across boundaries: enabling wireless communication through the water-
 
 == Lec \#3: Batteryless Underwater Communications (Mon, Sep 27, 2021)   
 *Goal:* Learn fundamentals of energy harvesting, backscatter, end-to-end system design\n        
-#- Lecture slides [./materials/lec3-power-2021.pdf \[PDF\]]
+- Lecture slides [./materials/lec3-power-2021.pdf \[PDF\]]
+- Underwater Ultrasonic Wireless Power Transfer [./materials/lec3-jessica-ultrasonic_power-2021.pdf \[PDF\]]
 - *Required:*
 -- [http://www.mit.edu/~fadel/papers/PAB-paper.pdf Underwater backscatter networking], ACM SIGCOMM 2019,
 -- [https://ieeexplore.ieee.org/document/9217956 Underwater Ultrasonic Wireless Power Transfer: A Battery-less Platform for the Internet of Underwater Things], IEEE Transactions on Mobile Computing 2020
@@ -33,7 +34,8 @@ Networking across boundaries: enabling wireless communication through the water-
 
 == Lec \#4: Underwater Localization (Mon, Oct 4, 2021)
 *Goal:* Learn fundamentals of localization and physics of wireless/acoustic channel\n       
-#- Lecture slides [./materials/lec4-slides-2021.pdf \[PDF\]] 
+- Lecture slides [./materials/lec4-localization-2021.pdf \[PDF\]]
+- piUSBL [./materials/lec4-laura-piUSBL-2021.pdf \[PDF\]]
 - *Required:* 
 -- [https://ieeexplore.ieee.org/abstract/document/5714973?casa_token=loVFjya1__0AAAAA:gmQ0tYzc24KZbwJr0UiSeLa186KcXrc4pXnVh-5bAACaMbwoRxFuGfYjtwR3j0PjIM3tEIzY_A A Survey of Architectures and Localization Techniques for Underwater Acoustic Sensor Networks], IEEE Communications Surveys & Tutorials, 2011
 -- [https://nrr.mit.edu/sites/default/files/documents/rypkema_iros2019_submission.pdf Passive Inverted Ultra-Short Baseline (piUSBL) Localization: An Experimental Evaluation of Accuracy]
