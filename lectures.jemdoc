@@ -118,6 +118,10 @@ Lecturer: [https://www2.whoi.edu/staff/jbonnel/ Dr. Julien Bonnel], Associate Sc
 == Lec \#11: Remote Sensing and Imaging (Mon, Nov 29, 2021)
 *Goal:* Learn about emerging and classical results in ocean remote sensing\n
 Lecturer: [https://profiles.stanford.edu/aidan-fitzpatrick Aiden Fitzpatrick], PhD Candidate, Stanford University
+- Ships of Oppurtunity (SOO)[./materials/lec11-SOO-nazish-2021.pdf \[PDF\]]
+- DNN for marine mammal detection [./materials/lec11-DNN-tara-2021.pdf \[PDF\]]
+- Passive eDNA[./materials/lec11-eDNAPass-jeanne-2021.pdf \[PDF\]]
+- Biomonitoring eDNA[./materials/lec11-eDNABio-maaya-2021.pdf \[PDF\]]
 - *Required:*
 -- [https://ieeexplore.ieee.org/abstract/document/9228880 An Airborne Sonar System for Underwater Remote Sensing and Imaging], IEEE Access 2020
 -- [https://ieeexplore.ieee.org/abstract/document/1433022 Detection and processing of bistatically reflected GPS signals from low earth orbit for the purpose of ocean remote sensing], IEEE Transactions on Geoscience and Remote Sensing, 2005
