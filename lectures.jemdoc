@@ -24,7 +24,7 @@ Networking across boundaries: enabling wireless communication through the water-
 == Lec \#3: Batteryless Underwater Communications (Mon, Sep 27, 2021)   
 *Goal:* Learn fundamentals of energy harvesting, backscatter, end-to-end system design\n        
 - Lecture slides [./materials/lec3-power-2021.pdf \[PDF\]]
-- Underwater Ultrasonic Wireless Power Transfer [./materials/lec3-jessica-ultrasonic_power-2021.pdf \[PDF\]]
+- Underwater Ultrasonic Wireless Power Transfer [./materials/lec3-jessica-ultrasonic-2021.pdf \[PDF\]]
 - *Required:*
 -- [http://www.mit.edu/~fadel/papers/PAB-paper.pdf Underwater backscatter networking], ACM SIGCOMM 2019,
 -- [https://ieeexplore.ieee.org/document/9217956 Underwater Ultrasonic Wireless Power Transfer: A Battery-less Platform for the Internet of Underwater Things], IEEE Transactions on Mobile Computing 2020
